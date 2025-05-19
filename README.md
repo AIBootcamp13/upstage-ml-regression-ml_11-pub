@@ -2,7 +2,7 @@
 
 ## ML_11조 - Upstage ML 회귀 경진대회 7위
 
-| ![홍상호](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_홍상호.jpg?raw=true) | ![신광명](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_신광명.jpg?raw=true) | ![최용비]() | ![이영준](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_이영준.jpg?raw=true) | ![김문수](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_김문수.jpg?raw=true) |
+| ![홍상호](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_홍상호.jpg?raw=true) | ![신광명](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_신광명.jpg?raw=true) | ![최용비](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_최용비.png?raw=true) | ![이영준](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_이영준.jpg?raw=true) | ![김문수](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/team/AI13_김문수.jpg?raw=true) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 | [AI13_홍상호](https://github.com/ERyukSa) | [AI13_신광명](https://github.com/YOUR_GITHUB) | [AI13_최용비](https://github.com/Wchoi189) | [AI13_이영준](https://github.com/YOUR_GITHUB) | [AI13_김문수](https://github.com/YOUR_GITHUB) |
 | 시각화, 데이터 검증 | EDA, 전처리 | 교통 피처 병렬화 (Wb2x2) | 모델링, 모델 최적화 | 특성 공학, 교통 관련 피처 생성 |
@@ -210,7 +210,7 @@ seaborn>=0.11.2
 
 ### 리더보드
 
-![리더보드](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/leaderboard.png?raw=true)
+![리더보드](https://github.com/UpstageAILab/upstage-ml-regression-11/blob/main/docs/images/leaderboard.jpg?raw=true)
 
 **최종 결과:**
 - 순위: 7위
